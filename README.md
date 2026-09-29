@@ -2,18 +2,13 @@
 
 Website portofolio pribadi, dibangun dengan **HTML, CSS murni (tanpa Tailwind/Bootstrap), dan JavaScript (DOM)**. Responsif untuk mobile, tablet, dan desktop.
 
-> Live demo: tempel link Netlify/Vercel/GitHub Pages kamu di sini setelah deploy
+> Live demo: https://portofolio-2106.vercel.app/
 
 ## Screenshot
 
-> Tambahkan screenshot desktop & mobile di sini setelah dijalankan/deploy.
->
-> ```md
-> ![Tampilan Desktop](assets/screenshot-desktop.png)
-> ![Tampilan Mobile](assets/screenshot-mobile.png)
-> ```
->
-> Simpan file gambarnya di folder `assets/`, lalu commit bersama kode.
+![Tampilan Desktop](assets/laptop.png)
+![Tampilan Tablet](assets/tablet.png)
+![Tampilan Mobile](assets/hp.png)
 
 ## Tentang Proyek
 
@@ -33,13 +28,3 @@ Website ini menampilkan profil, cerita singkat, riwayat pendidikan, serta organi
 | Back to top | Tombol kembali ke atas halaman |
 
 ## Struktur Folder
-
-```
-portfolio-rizky/
-├── index.html      # struktur halaman
-├── style.css       # semua styling (plain CSS, custom properties, media query)
-├── script.js       # seluruh interaksi DOM
-├── assets/         # taruh screenshot & aset gambar di sini
-└── README.md
-```
-
